@@ -29,6 +29,6 @@ function printData(data) {
 
 const options = {
   headers: {
-    Authorization: "Bearer af97ee7dfe45920b29c1f8a84be60bbb69b92466 ",
+    Authorization: "Bearer 0118fd4e9d18aa6133c6f7072a5ea794179aa09e ",
   },
 };
